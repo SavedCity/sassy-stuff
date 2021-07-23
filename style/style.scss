@@ -1,0 +1,23 @@
+$darker-B: #003;
+$dark-B: #009;
+
+$frosty: ghostwhite;
+
+.header {
+  background: lighten($darker-B, 12%);
+  &-title {
+    color: yellow;
+  }
+}
+
+body {
+  background: $dark-B;
+}
+
+* {
+  color: $frosty;
+}
+
+button {
+  background-color: $dark-B;
+}

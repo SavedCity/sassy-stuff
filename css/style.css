@@ -1,0 +1,20 @@
+.header {
+  background: #000070;
+}
+.header-title {
+  color: yellow;
+}
+
+body {
+  background: #009;
+}
+
+* {
+  color: ghostwhite;
+}
+
+button {
+  background-color: #009;
+}
+
+/*# sourceMappingURL=style.css.map */
